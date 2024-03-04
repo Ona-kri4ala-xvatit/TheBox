@@ -1,7 +1,6 @@
 import React from "react";
 import './Slider.scss'
 import { SliderItem } from "./SliderItem/SliderItem";
-
 import proj_1 from '../../assets/icons/proj_1.png'
 import proj_2 from '../../assets/icons/proj_2.png'
 import proj_3 from '../../assets/icons/proj_3.png'

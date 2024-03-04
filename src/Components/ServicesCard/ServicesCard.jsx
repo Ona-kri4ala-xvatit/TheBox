@@ -1,7 +1,5 @@
 import React from "react";
-
 import './ServicesCard.scss'
-
 import icon from '../../assets/icons/icon.png'
 import icon_1 from '../../assets/icons/icon-1.png'
 import icon_2 from '../../assets/icons/icon-2.png'

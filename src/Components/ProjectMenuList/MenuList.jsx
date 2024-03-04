@@ -3,7 +3,6 @@ import { MenuItem } from './MenuItem/MenuItem'
 
 import './MenuList.scss'
 
-
 export const MenuList = () => {
   return (
     <div className='project-menu-list-wrapper'>

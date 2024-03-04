@@ -1,10 +1,7 @@
 import React from "react"
-
 import './Reputation.scss'
-
 import icon_1 from '../../assets/icons/icon_1.png'
 import icon_2 from '../../assets/icons/icon_2.png'
-
 
 export const Reputation = () => {
     return (

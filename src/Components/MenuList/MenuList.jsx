@@ -3,7 +3,6 @@ import { MenuItem } from './MenuItem/MenuItem'
 
 import './MenuList.scss'
 
-
 export const MenuList = () => {
   return (
     <div className='menu-list-wrapper'>
@@ -12,7 +11,7 @@ export const MenuList = () => {
         <MenuItem menuItemText={'About Us'} />
         <MenuItem menuItemText={'Projects'} />
         <MenuItem menuItemText={'Services'} />
-        <MenuItem menuItemText={'Contact Us'} />
+        <MenuItem menuItemText={'Contact Us'}/>
       </ul>
     </div>
   )
