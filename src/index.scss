@@ -1,3 +1,28 @@
+@font-face {
+  font-family: 'WorkSans-Medium';
+  src: url('./assets/fonts/WorkSans-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'WorkSans-Regular';
+  src: url('./assets/fonts/WorkSans-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'WorkSans-SemiBold';
+  src: url('./assets/fonts/WorkSans-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: '/WorkSans-Bold';
+  src: url('./assets/fonts/WorkSans-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'WorkSans-BoldItalic';
+  src: url('./assets/fonts/WorkSans-BoldItalic.ttf') format('truetype');
+}
+
 * {
     box-sizing: border-box;
   }
@@ -26,6 +51,4 @@
     color: #fff;
     padding-top: 26px;
     padding-bottom: 26px;
-    padding-left: 112px;
-    overflow: hidden;
   }
